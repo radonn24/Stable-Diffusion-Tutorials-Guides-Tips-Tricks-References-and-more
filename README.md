@@ -61,6 +61,7 @@
 |--|--|--|
 | Openpose Editor | https://github.com/fkunn1326/openpose-editor | [Tutorial](https://www.youtube.com/watch?v=uAI_FBK6UPc&t=0s) |
 | ControlNet | https://github.com/Mikubill/sd-webui-controlnet | [Tutorial](https://stable-diffusion-art.com/controlnet/) |
+| Dynamic Prompts | https://github.com/adieyal/sd-dynamic-prompts | [Tutorial](https://github.com/adieyal/sd-dynamic-prompts/blob/main/docs/tutorial.md) |
 | Infinite Image Browsing | https://github.com/zanllp/sd-webui-infinite-image-browsing |  |
 | Canvas Zoom | https://github.com/richrobber2/canvas-zoom |  |
 | Ultimate SD Upscale | https://github.com/Coyote-A/ultimate-upscale-for-automatic1111 | [Tutorial](https://stable-diffusion-art.com/controlnet-upscale/) |
@@ -73,6 +74,8 @@
 ## 4. ControlNet Details
 
 [![ControlNet v1.1 Tutorial](https://img.youtube.com/vi/WZg3e6B2yPQ/0.jpg)](https://www.youtube.com/watch?v=WZg3e6B2yPQ)
+
+[ControlNet extension - explained like you're 5](https://www.reddit.com/r/StableDiffusion/comments/119o71b/a1111_controlnet_extension_explained_like_youre_5/)
 
 ### Download ControlNet v1.1 Models
 
