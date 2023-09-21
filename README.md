@@ -24,10 +24,10 @@
    - Update the `COMMANDLINE_ARGS` line to match the line below
      - `set COMMANDLINE_ARGS= --xformers --autolaunch`
      - FAQ: Command Line Arguments and Settings ([link here](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Command-Line-Arguments-and-Settings))
-4. Run `./run.bat`
-   -. For more details see [Install-and-Run-on-NVidia-GPUs](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-NVidia-GPUs)
+4. Run `./run.bat` now
+   - For more details see [Install-and-Run-on-NVidia-GPUs](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-NVidia-GPUs)
 5. Open your SD Web UI: http://127.0.0.1:7860/ (auto-launch should auto-open this for you)
-6. Completely close/quit the Stable Diffusion Web UI. Make sure to kill the terminal process also.
+6. Completely close/quit the Stable Diffusion Web UI. Make sure to kill the terminal process also (the `run.bat` process).
 
 ### Install Additional Models and Extensions
 
