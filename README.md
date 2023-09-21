@@ -32,7 +32,7 @@
 ### Install Additional Models and Extensions
 
 7. Download desired Stable Diffusion models ([below](#2-awesome-stable-diffusion-models))
-8. Download desired Stable Diffusion extensions ([below](#4-awesome-stable-diffusion-extensions))
+8. Download desired Stable Diffusion extensions ([below](#3-awesome-stable-diffusion-extensions))
 9. Download desired ControlNet models ([below](#download-controlnet-v11-models))
 
 ## 2. Awesome Stable Diffusion Models
