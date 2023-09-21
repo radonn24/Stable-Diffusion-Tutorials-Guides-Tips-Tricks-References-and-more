@@ -4,6 +4,7 @@ Stable Diffusion is a revolutionary new AI image generation model that can produ
 
 - [Stable Diffusion: Tutorials, Guides, Tips, Tricks, References, and more ...](#stable-diffusion-tutorials-guides-tips-tricks-references-and-more-)
 	- [1. Getting Started](#1-getting-started)
+		- [⭐ \[YT Playlist\] Watch the "Stable Diffusion Beginner Guide" by Sebastian Kamph on YouTube](#-yt-playlist-watch-the-stable-diffusion-beginner-guide-by-sebastian-kamph-on-youtube)
 		- [Installation on Windows 10/11, with NVidia-GPUs, using release package](#installation-on-windows-1011-with-nvidia-gpus-using-release-package)
 		- [Install Additional Models, Extensions, ControlNet and more ...](#install-additional-models-extensions-controlnet-and-more-)
 	- [2. Awesome Stable Diffusion Models](#2-awesome-stable-diffusion-models)
@@ -16,7 +17,10 @@ Stable Diffusion is a revolutionary new AI image generation model that can produ
 
 > **Stable Diffusion Web UI Home Page:** https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
-[![Alt text](https://img.youtube.com/vi/WZg3e6B2yPQ/0.jpg)](https://www.youtube.com/watch?v=WZg3e6B2yPQ)
+### ⭐ [YT Playlist] Watch the "Stable Diffusion Beginner Guide" by Sebastian Kamph on YouTube
+
+[![Stable Diffusion Beginner Guide Playlist](https://img.youtube.com/vi/WZg3e6B2yPQ/0.jpg)](https://www.youtube.com/watch?v=WZg3e6B2yPQ)
+
 
 ### Installation on Windows 10/11, with NVidia-GPUs, using release package
 
@@ -65,6 +69,8 @@ Stable Diffusion is a revolutionary new AI image generation model that can produ
 
 ## 4. ControlNet Details
 
+[![ControlNet v1.1 Tutorial](https://img.youtube.com/vi/WZg3e6B2yPQ/0.jpg)](https://www.youtube.com/watch?v=WZg3e6B2yPQ)
+
 ### Download ControlNet v1.1 Models
 
 > Put new **ControlNet v1.1 Models** in this folder: `webui\extensions\sd-webui-controlnet\models`
@@ -87,3 +93,6 @@ Stable Diffusion is a revolutionary new AI image generation model that can produ
 | Useful AUTOMATIC1111 extensions | https://stable-diffusion-art.com/automatic1111-extensions/ |
 | ControlNet-v1-1 | https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main |
 | Prompt Styles by Sebastian, Hili & Maui ([CSV](https://www.patreon.com/file?h=79649068&i=15686449)) | https://www.patreon.com/posts/sebs-hilis-79649068 |
+
+<!-- Markdown Snippet: Embedding a video on a Github repo page -->
+<!-- [![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID) -->
