@@ -61,7 +61,8 @@
 |--|--|--|
 | Openpose Editor | https://github.com/fkunn1326/openpose-editor | [Tutorial](https://www.youtube.com/watch?v=uAI_FBK6UPc&t=0s) |
 | ControlNet | https://github.com/Mikubill/sd-webui-controlnet | [Tutorial](https://stable-diffusion-art.com/controlnet/) |
-| Dynamic Prompts | https://github.com/adieyal/sd-dynamic-prompts | [Tutorial](https://github.com/adieyal/sd-dynamic-prompts/blob/main/docs/tutorial.md) |
+| Dynamic Prompts | https://github.com/adieyal/sd-dynamic-prompts | [Tutorial](https://github.com/adieyal/sd-dynamic-prompts/blob/main/docs/resources.md#english) |
+| Booru style tag autocompletion | https://github.com/DominikDoom/a1111-sd-webui-tagcomplete |  |
 | Infinite Image Browsing | https://github.com/zanllp/sd-webui-infinite-image-browsing |  |
 | Canvas Zoom | https://github.com/richrobber2/canvas-zoom |  |
 | Ultimate SD Upscale | https://github.com/Coyote-A/ultimate-upscale-for-automatic1111 | [Tutorial](https://stable-diffusion-art.com/controlnet-upscale/) |
