@@ -4,34 +4,39 @@
 
 - [Stable Diffusion: Tutorials, Guides, Tips, Tricks, References, and more ...](#stable-diffusion-tutorials-guides-tips-tricks-references-and-more-)
 	- [1. Getting Started](#1-getting-started)
-	- [2. Awesome Stable Diffusion models](#2-awesome-stable-diffusion-models)
+		- [Installation on Windows 10/11, with NVidia-GPUs, using release package](#installation-on-windows-1011-with-nvidia-gpus-using-release-package)
+		- [Install Additional Models and Extensions](#install-additional-models-and-extensions)
+	- [2. Awesome Stable Diffusion Models](#2-awesome-stable-diffusion-models)
+	- [4. Awesome Stable Diffusion Extensions](#4-awesome-stable-diffusion-extensions)
 	- [3. ControlNet Details](#3-controlnet-details)
 		- [Download ControlNet v1.1 Models](#download-controlnet-v11-models)
-	- [4. Awesome Stable Diffusion Extensions](#4-awesome-stable-diffusion-extensions)
 	- [5. Awesome Stable Diffusion Related Links](#5-awesome-stable-diffusion-related-links)
 
 ## 1. Getting Started
 
 > **Stable Diffusion Web UI Home Page:** https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
-### Installation on Windows 10/11 with NVidia-GPUs using release package
+### Installation on Windows 10/11, with NVidia-GPUs, using release package
 
 1. Download `sd.webui.zip` from [v1.0.0-pre](https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases/tag/v1.0.0-pre) and extract it's contents
-2. Edit the `webui/webui-user.cfg` file
-   - Update the `COMMANDLINE_ARGS` line to match this:
+2. Run `./update.bat` (do not run the `run.bat` file yet)
+3. Edit the `webui/webui-user.cfg` file
+   - Update the `COMMANDLINE_ARGS` line to match this
      - `set COMMANDLINE_ARGS= --xformers --autolaunch`
-3. Run `./update.bat`
 4. Run `./run.bat`
-   -. For more details see [Install-and-Run-on-NVidia-GPUs](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-NVidia-GPUs) 
-5. Open the SD Web UI: http://127.0.0.1:7860/
-6. Install Extensions (below)
-7. Completely close/quit the SD Web UI & the terminal process, then re-launch it
-8. Download some Stable Diffusion models
-9. Download some ControlNet models
+   -. For more details see [Install-and-Run-on-NVidia-GPUs](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-NVidia-GPUs)
+5. Open your SD Web UI: http://127.0.0.1:7860/ (auto-launch should auto-open this for you)
+6. Completely close/quit the Stable Diffusion Web UI. Make sure to kill the terminal process also.
 
-## 2. Awesome Stable Diffusion models
+### Install Additional Models and Extensions
 
-> Put new Stable Diffusion models in this folder: `webui\extensions\sd-webui-controlnet\models`
+7. Download desired Stable Diffusion models ([below](#2-awesome-stable-diffusion-models))
+8. Download desired Stable Diffusion extensions ([below](#4-awesome-stable-diffusion-extensions))
+9. Download desired ControlNet models ([below](#download-controlnet-v11-models))
+
+## 2. Awesome Stable Diffusion Models
+
+> Put new Stable Diffusion **Models** in this folder: `webui\extensions\sd-webui-controlnet\models`
 
 | Name | Link |
 |--|--|
@@ -39,24 +44,9 @@
 | Hugging Face | https://huggingface.co/ |
 |  |  |
 
-## 3. ControlNet Details
-
-### Download ControlNet v1.1 Models
-
-> Put new ControlNet v1.1 models in this folder: `webui\extensions\sd-webui-controlnet\models`
-
-[Download](https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main) (at least) these four models (my preference). Or, grab them all if you have the space!
-- depth
-- canny
-- openpose
-- scribble
-
-| Name | Link |
-|--|--|
-| ControlNet v1.1 models | https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main |
-| Hugging Face |  |
-
 ## 4. Awesome Stable Diffusion Extensions
+
+> Put new Stable Diffusion **extensions** in this folder: `webui\extensions`
 
 | Name | Install URL | Notes |
 |--|--|--|
@@ -69,6 +59,23 @@
 | sd-civitai-browser | https://github.com/camenduru/sd-civitai-browser |  |
 | Roop | https://github.com/s0md3v/sd-webui-roop | [Tutorial](https://stable-diffusion-art.com/consistent-face/) |
 | Aspect Ratio selector | https://github.com/alemelis/sd-webui-ar |  |
+
+## 3. ControlNet Details
+
+### Download ControlNet v1.1 Models
+
+> Put new **ControlNet v1.1 Models** in this folder: `webui\extensions\sd-webui-controlnet\models`
+
+[Download](https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main) (at least) these four models (my preference). Or, grab them all if you have the space!
+- depth
+- canny
+- openpose
+- scribble
+
+| Name | Link |
+|--|--|
+| ControlNet v1.1 Models | https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main |
+| Hugging Face |  |
 
 ## 5. Awesome Stable Diffusion Related Links
 
