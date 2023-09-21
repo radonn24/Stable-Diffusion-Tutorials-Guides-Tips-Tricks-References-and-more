@@ -93,6 +93,7 @@
 
 | Name | Link |
 |--|--|
+| ⭐ Stable Diffusion Cheat-Sheet ⭐ | https://github.com/SupaGruen/StableDiffusion-CheatSheet |
 | Useful AUTOMATIC1111 extensions | https://stable-diffusion-art.com/automatic1111-extensions/ |
 | ControlNet-v1-1 | https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main |
 | Prompt Styles by Sebastian, Hili & Maui ([CSV](https://www.patreon.com/file?h=79649068&i=15686449)) | https://www.patreon.com/posts/sebs-hilis-79649068 |
