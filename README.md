@@ -6,7 +6,7 @@
 - [Stable Diffusion: Tutorials, Guides, Tips, Tricks, References, and more ...](#stable-diffusion-tutorials-guides-tips-tricks-references-and-more-)
 	- [Table of Contents](#table-of-contents)
 	- [1. Getting Started](#1-getting-started)
-		- [⭐ \[Link to playlist\] ⭐ Watch the "Stable Diffusion Beginner Guide" Playlist](#-link-to-playlist--watch-the-stable-diffusion-beginner-guide-playlist)
+		- [⭐ Watch the "Stable Diffusion Beginner Guide" Playlist (below) ⭐](#-watch-the-stable-diffusion-beginner-guide-playlist-below-)
 		- [Installation on Windows 10/11, with NVidia-GPUs, using release package](#installation-on-windows-1011-with-nvidia-gpus-using-release-package)
 		- [Install additional Models, Extensions, ControlNet and more ...](#install-additional-models-extensions-controlnet-and-more-)
 	- [2. Awesome Stable Diffusion Models](#2-awesome-stable-diffusion-models)
@@ -19,8 +19,9 @@
 
 > **Stable Diffusion Web UI Home Page:** https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
-### ⭐ [[Link to playlist](https://www.youtube.com/playlist?list=PLXS4AwfYDUi5sbsxZmDQWxOQTml9Uqyd2)] ⭐ Watch the "Stable Diffusion Beginner Guide" Playlist
-- (by [Sebastian Kamph](https://www.youtube.com/@sebastiankamph) on YouTube)
+### ⭐ Watch the "Stable Diffusion Beginner Guide" Playlist (below) ⭐
+
+> by [Sebastian Kamph](https://www.youtube.com/@sebastiankamph) on YouTube
 
 [![Stable Diffusion Beginner Guide Playlist](https://i.ytimg.com/vi/kqXpAKVQDNU/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLXS4AwfYDUi5sbsxZmDQWxOQTml9Uqyd2)
 
