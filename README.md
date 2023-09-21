@@ -1,3 +1,15 @@
+<a name="readme-top"></a>
+
+<div align="center">
+
+<h1 align="center">Stable Diffusion: Tutorials, Guides, Tips, Tricks, References, and more</h1>
+
+<p align="center"> <a href="https://stability.ai/" target="_blank">Stable Diffusion</a> is a revolutionary new AI image generation model that can produce stunning and lifelike images from text descriptions. This repository is a carefully curated collection of helpful links (that I am familiar with). It provides a holistic overview of Stable Diffusion, including setup instructions, tutorials, guides, tips, tricks, references, and so on. We encourage you to contribute to this repository!</p>
+
+</div>
+
+![][cover]
+
 # Stable Diffusion: Tutorials, Guides, Tips, Tricks, References, and more ...
 
 [Stable Diffusion](https://stability.ai/) is a revolutionary new AI image generation model that can produce stunning and lifelike images from text descriptions. This repository is a carefully curated collection of helpful links (that I am familiar with). It provides a holistic overview of Stable Diffusion, including setup instructions, tutorials, guides, tips, tricks, references, and so on. We encourage you to contribute to this repository!
@@ -98,6 +110,7 @@
 
 | Name | Link | Other Notes |
 |--|--|--|
+| 😍 Lobe Theme 😍 | https://github.com/lobehub/sd-webui-lobe-theme |  |
 | ⭐ Stable Diffusion Cheat-Sheet ⭐ | https://github.com/SupaGruen/StableDiffusion-CheatSheet | [Website](https://supagruen.github.io/StableDiffusion-CheatSheet/) |
 | ⭐ Install Stable Diffusion 2.1 in AUTOMATIC1111 GUI ⭐ | https://stable-diffusion-art.com/install-stable-diffusion-2-1/ |
 | Useful AUTOMATIC1111 extensions | https://stable-diffusion-art.com/automatic1111-extensions/ |  |
