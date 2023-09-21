@@ -91,12 +91,12 @@
 
 ## 5. Awesome Stable Diffusion Related Links & Miscellaneous
 
-| Name | Link |
-|--|--|
-| ⭐ Stable Diffusion Cheat-Sheet ⭐ | https://github.com/SupaGruen/StableDiffusion-CheatSheet |
-| Useful AUTOMATIC1111 extensions | https://stable-diffusion-art.com/automatic1111-extensions/ |
-| ControlNet-v1-1 | https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main |
-| Prompt Styles by Sebastian, Hili & Maui ([CSV](https://www.patreon.com/file?h=79649068&i=15686449)) | https://www.patreon.com/posts/sebs-hilis-79649068 |
+| Name | Link | Other Notes |
+|--|--|--|
+| ⭐ Stable Diffusion Cheat-Sheet ⭐ | https://github.com/SupaGruen/StableDiffusion-CheatSheet | [Website](https://supagruen.github.io/StableDiffusion-CheatSheet/) |
+| Useful AUTOMATIC1111 extensions | https://stable-diffusion-art.com/automatic1111-extensions/ |  |
+| ControlNet-v1-1 | https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main |  |
+| Prompt Styles by Sebastian, Hili & Maui | https://www.patreon.com/posts/sebs-hilis-79649068 | [CSV Download](https://www.patreon.com/file?h=79649068&i=15686449) |
 
 <!-- Markdown Snippet: Embedding a video on a Github repo page -->
 <!-- [![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID) -->
