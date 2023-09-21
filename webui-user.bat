@@ -1,11 +1,10 @@
 @REM List of commandline args: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Command-Line-Arguments-and-Settings#all-command-line-arguments
-@REM I'm just saving this argument for moment ;) ... --precision full
 
 @echo off
 
 set PYTHON=
 set GIT=
 set VENV_DIR=
-set COMMANDLINE_ARGS= --allow-code --xformers --skip-torch-cuda-test --no-half-vae --opt-split-attention --autolaunch --api --theme dark
+set COMMANDLINE_ARGS= --allow-code --upcast-sampling --xformers --precision full --skip-torch-cuda-test --no-half-vae --opt-split-attention --autolaunch --api --theme dark
 
 call webui.bat

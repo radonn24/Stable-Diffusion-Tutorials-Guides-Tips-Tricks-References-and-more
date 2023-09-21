@@ -10,11 +10,13 @@
 
 # Stable Diffusion: Tutorials, Guides, Tips, Tricks, References, and more ...
 
-	[Stable Diffusion](https://github.com/Stability-AI/stablediffusion) is a revolutionary new AI image generation model that can produce stunning and lifelike images from text descriptions. This repository is a carefully curated collection of helpful links (that I am familiar with). It provides a holistic overview of Stable Diffusion, including setup instructions, tutorials, guides, tips, tricks, references, and so on. We encourage you to contribute to this repository!
+[Stable Diffusion](https://github.com/Stability-AI/stablediffusion) is a revolutionary new AI image generation model that can produce stunning and lifelike images from text descriptions. This repository is a carefully curated collection of helpful links (that I am familiar with). It provides a holistic overview of Stable Diffusion, including setup instructions, tutorials, guides, tips, tricks, references, and so on. We encourage you to contribute to this repository!
 
-## Table of Contents
+---
+
+## 0. Table of Contents
 - [Stable Diffusion: Tutorials, Guides, Tips, Tricks, References, and more ...](#stable-diffusion-tutorials-guides-tips-tricks-references-and-more-)
-	- [Table of Contents](#table-of-contents)
+	- [0. Table of Contents](#0-table-of-contents)
 	- [1. Getting Started](#1-getting-started)
 		- [⭐ Watch the "Stable Diffusion Beginner Guide" Playlist (below) ⭐](#-watch-the-stable-diffusion-beginner-guide-playlist-below-)
 		- [Installation on Windows 10/11, with NVidia-GPUs, using release package](#installation-on-windows-1011-with-nvidia-gpus-using-release-package)
@@ -25,15 +27,17 @@
 		- [Download ControlNet v1.1 Models](#download-controlnet-v11-models)
 	- [5. Awesome Stable Diffusion Related Links \& Miscellaneous](#5-awesome-stable-diffusion-related-links--miscellaneous)
 
+---
+
 ## 1. Getting Started
 
 > **Stable Diffusion Home Page:** https://github.com/Stability-AI/stablediffusion
-> 
+
 > **Stable Diffusion (Web UI) Home Page:** https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 ### ⭐ Watch the "Stable Diffusion Beginner Guide" Playlist (below) ⭐
 
-> by [Sebastian Kamph](https://www.youtube.com/@sebastiankamph) on YouTube
+- by [Sebastian Kamph](https://www.youtube.com/@sebastiankamph) on YouTube
 
 [![Stable Diffusion Beginner Guide Playlist](https://i.ytimg.com/vi/kqXpAKVQDNU/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLXS4AwfYDUi5sbsxZmDQWxOQTml9Uqyd2)
 
@@ -56,6 +60,8 @@
 8. Download desired Stable Diffusion extensions ([below](#3-awesome-stable-diffusion-extensions))
 9. Download desired ControlNet models ([below](#download-controlnet-v11-models))
 
+---
+
 ## 2. Awesome Stable Diffusion Models
 
 > Put new Stable Diffusion **Models** in this folder: `webui\extensions\sd-webui-controlnet\models`
@@ -64,6 +70,8 @@
 |--|--|
 | civitai.com | https://civitai.com/ |
 | Hugging Face | https://huggingface.co/ |
+
+---
 
 ## 3. Awesome Stable Diffusion Extensions
 
@@ -88,6 +96,8 @@
 | Aspect Ratio selector | https://github.com/alemelis/sd-webui-ar |  |
 | openOutpaint | https://github.com/zero01101/openOutpaint-webUI-extension |  |
 
+---
+
 ## 4. ControlNet Details
 
 [![ControlNet v1.1 Tutorial](https://img.youtube.com/vi/WZg3e6B2yPQ/0.jpg)](https://www.youtube.com/watch?v=WZg3e6B2yPQ)
@@ -108,6 +118,8 @@
 |--|--|
 | ControlNet v1.1 Models | https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main |
 | Hugging Face |  |
+
+---
 
 ## 5. Awesome Stable Diffusion Related Links & Miscellaneous
 
