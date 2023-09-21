@@ -21,8 +21,9 @@
 1. Download `sd.webui.zip` from [v1.0.0-pre](https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases/tag/v1.0.0-pre) and extract it's contents
 2. Run `./update.bat` (do not run the `run.bat` file yet)
 3. Edit the `webui/webui-user.cfg` file
-   - Update the `COMMANDLINE_ARGS` line to match this
+   - Update the `COMMANDLINE_ARGS` line to match the line below
      - `set COMMANDLINE_ARGS= --xformers --autolaunch`
+     - FAQ: Command Line Arguments and Settings ([link here](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Command-Line-Arguments-and-Settings))
 4. Run `./run.bat`
    -. For more details see [Install-and-Run-on-NVidia-GPUs](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-NVidia-GPUs)
 5. Open your SD Web UI: http://127.0.0.1:7860/ (auto-launch should auto-open this for you)
