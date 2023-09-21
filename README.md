@@ -4,22 +4,24 @@ Stable Diffusion is a revolutionary new AI image generation model that can produ
 
 - [Stable Diffusion: Tutorials, Guides, Tips, Tricks, References, and more ...](#stable-diffusion-tutorials-guides-tips-tricks-references-and-more-)
 	- [1. Getting Started](#1-getting-started)
-		- [⭐ \[YT Playlist\] Watch the "Stable Diffusion Beginner Guide" by Sebastian Kamph on YouTube](#-yt-playlist-watch-the-stable-diffusion-beginner-guide-by-sebastian-kamph-on-youtube)
+		- [⭐ \[YT Playlist\] ⭐ Watch the "Stable Diffusion Beginner Guide" Playlist](#-yt-playlist--watch-the-stable-diffusion-beginner-guide-playlist)
 		- [Installation on Windows 10/11, with NVidia-GPUs, using release package](#installation-on-windows-1011-with-nvidia-gpus-using-release-package)
-		- [Install Additional Models, Extensions, ControlNet and more ...](#install-additional-models-extensions-controlnet-and-more-)
+		- [Install additional Models, Extensions, ControlNet and more ...](#install-additional-models-extensions-controlnet-and-more-)
 	- [2. Awesome Stable Diffusion Models](#2-awesome-stable-diffusion-models)
 	- [3. Awesome Stable Diffusion Extensions](#3-awesome-stable-diffusion-extensions)
 	- [4. ControlNet Details](#4-controlnet-details)
 		- [Download ControlNet v1.1 Models](#download-controlnet-v11-models)
-	- [5. Awesome Stable Diffusion Related Links](#5-awesome-stable-diffusion-related-links)
+	- [5. Awesome Stable Diffusion Related Links \& Miscellaneous](#5-awesome-stable-diffusion-related-links--miscellaneous)
 
 ## 1. Getting Started
 
 > **Stable Diffusion Web UI Home Page:** https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
-### ⭐ [YT Playlist] Watch the "Stable Diffusion Beginner Guide" by Sebastian Kamph on YouTube
+### ⭐ [YT Playlist] ⭐ Watch the "Stable Diffusion Beginner Guide" Playlist
 
-[![Stable Diffusion Beginner Guide Playlist](https://img.youtube.com/vi/WZg3e6B2yPQ/0.jpg)](https://www.youtube.com/watch?v=WZg3e6B2yPQ)
+by [Sebastian Kamph](https://www.youtube.com/@sebastiankamph) on YouTube
+
+[![Stable Diffusion Beginner Guide Playlist](https://i.ytimg.com/vi/kqXpAKVQDNU/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLXS4AwfYDUi5sbsxZmDQWxOQTml9Uqyd2)
 
 
 ### Installation on Windows 10/11, with NVidia-GPUs, using release package
@@ -35,7 +37,7 @@ Stable Diffusion is a revolutionary new AI image generation model that can produ
 5. Open your SD Web UI: http://127.0.0.1:7860/ (auto-launch should auto-open this for you)
 6. Completely close/quit the Stable Diffusion Web UI. Make sure to kill the terminal process also (the `run.bat` process).
 
-### Install Additional Models, Extensions, ControlNet and more ...
+### Install additional Models, Extensions, ControlNet and more ...
 
 7. Download desired Stable Diffusion models ([below](#2-awesome-stable-diffusion-models))
 8. Download desired Stable Diffusion extensions ([below](#3-awesome-stable-diffusion-extensions))
@@ -86,7 +88,7 @@ Stable Diffusion is a revolutionary new AI image generation model that can produ
 | ControlNet v1.1 Models | https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main |
 | Hugging Face |  |
 
-## 5. Awesome Stable Diffusion Related Links
+## 5. Awesome Stable Diffusion Related Links & Miscellaneous
 
 | Name | Link |
 |--|--|
