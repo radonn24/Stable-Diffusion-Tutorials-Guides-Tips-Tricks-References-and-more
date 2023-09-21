@@ -76,6 +76,7 @@
 | Wildcards | https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards |  |
 | Dynamic Prompts | https://github.com/adieyal/sd-dynamic-prompts | [Tutorial](https://github.com/adieyal/sd-dynamic-prompts/blob/main/docs/resources.md#english) |
 | Booru style tag autocompletion | https://github.com/DominikDoom/a1111-sd-webui-tagcomplete |  |
+| CLIP Interrogator | https://github.com/pharmapsychotic/clip-interrogator-ext |  |
 | Infinite Image Browsing | https://github.com/zanllp/sd-webui-infinite-image-browsing |  |
 | Canvas Zoom | https://github.com/richrobber2/canvas-zoom |  |
 | Ultimate SD Upscale | https://github.com/Coyote-A/ultimate-upscale-for-automatic1111 | [Tutorial](https://stable-diffusion-art.com/controlnet-upscale/) |
@@ -84,6 +85,7 @@
 | sd-civitai-browser | https://github.com/camenduru/sd-civitai-browser |  |
 | Roop | https://github.com/s0md3v/sd-webui-roop | [Tutorial](https://stable-diffusion-art.com/consistent-face/) |
 | Aspect Ratio selector | https://github.com/alemelis/sd-webui-ar |  |
+| openOutpaint | https://github.com/zero01101/openOutpaint-webUI-extension |  |
 
 ## 4. ControlNet Details
 
