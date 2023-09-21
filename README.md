@@ -4,7 +4,7 @@
 
 <h1 align="center">Stable Diffusion: Tutorials, Guides, Tips, Tricks, References, and more</h1>
 
-<p align="center"> <a href="https://stability.ai/" target="_blank">Stable Diffusion</a> is a revolutionary new AI image generation model that can produce stunning and lifelike images from text descriptions. This repository is a carefully curated collection of helpful links (that I am familiar with). It provides a holistic overview of Stable Diffusion, including setup instructions, tutorials, guides, tips, tricks, references, and so on. We encourage you to contribute to this repository!</p>
+<p align="center"> <a href="https://github.com/Stability-AI/stablediffusion" target="_blank">Stable Diffusion</a> is a revolutionary new AI image generation model that can produce stunning and lifelike images from text descriptions. This repository is a carefully curated collection of helpful links (that I am familiar with). It provides a holistic overview of Stable Diffusion, including setup instructions, tutorials, guides, tips, tricks, references, and so on. We encourage you to contribute to this repository!</p>
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ## 1. Getting Started
 
-> **Stable Diffusion Home Page:** https://stability.ai/
+> **Stable Diffusion Home Page:** https://github.com/Stability-AI/stablediffusion
 > 
 > **Stable Diffusion (Web UI) Home Page:** https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
