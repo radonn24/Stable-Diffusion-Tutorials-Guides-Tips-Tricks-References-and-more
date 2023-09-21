@@ -7,8 +7,8 @@
 		- [Installation on Windows 10/11, with NVidia-GPUs, using release package](#installation-on-windows-1011-with-nvidia-gpus-using-release-package)
 		- [Install Additional Models and Extensions](#install-additional-models-and-extensions)
 	- [2. Awesome Stable Diffusion Models](#2-awesome-stable-diffusion-models)
-	- [4. Awesome Stable Diffusion Extensions](#4-awesome-stable-diffusion-extensions)
-	- [3. ControlNet Details](#3-controlnet-details)
+	- [3. Awesome Stable Diffusion Extensions](#3-awesome-stable-diffusion-extensions)
+	- [4. ControlNet Details](#4-controlnet-details)
 		- [Download ControlNet v1.1 Models](#download-controlnet-v11-models)
 	- [5. Awesome Stable Diffusion Related Links](#5-awesome-stable-diffusion-related-links)
 
@@ -44,7 +44,7 @@
 | civitai.com | https://civitai.com/ |
 | Hugging Face | https://huggingface.co/ |
 
-## 4. Awesome Stable Diffusion Extensions
+## 3. Awesome Stable Diffusion Extensions
 
 > Put new Stable Diffusion **extensions** in this folder: `webui\extensions`
 
@@ -60,7 +60,7 @@
 | Roop | https://github.com/s0md3v/sd-webui-roop | [Tutorial](https://stable-diffusion-art.com/consistent-face/) |
 | Aspect Ratio selector | https://github.com/alemelis/sd-webui-ar |  |
 
-## 3. ControlNet Details
+## 4. ControlNet Details
 
 ### Download ControlNet v1.1 Models
 
