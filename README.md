@@ -5,18 +5,18 @@ Stable Diffusion is a revolutionary new AI image generation model that can produ
 - [Stable Diffusion: Tutorials, Guides, Tips, Tricks, References, and more ...](#stable-diffusion-tutorials-guides-tips-tricks-references-and-more-)
 	- [1. Getting Started](#1-getting-started)
 		- [Installation on Windows 10/11, with NVidia-GPUs, using release package](#installation-on-windows-1011-with-nvidia-gpus-using-release-package)
-		- [Install Additional Models and Extensions](#install-additional-models-and-extensions)
+		- [Install Additional Models, Extensions, ControlNet and more ...](#install-additional-models-extensions-controlnet-and-more-)
 	- [2. Awesome Stable Diffusion Models](#2-awesome-stable-diffusion-models)
 	- [3. Awesome Stable Diffusion Extensions](#3-awesome-stable-diffusion-extensions)
 	- [4. ControlNet Details](#4-controlnet-details)
 		- [Download ControlNet v1.1 Models](#download-controlnet-v11-models)
 	- [5. Awesome Stable Diffusion Related Links](#5-awesome-stable-diffusion-related-links)
 
-https://www.youtube.com/watch?v=WZg3e6B2yPQ
-
 ## 1. Getting Started
 
 > **Stable Diffusion Web UI Home Page:** https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+[![Alt text](https://img.youtube.com/vi/WZg3e6B2yPQ/0.jpg)](https://www.youtube.com/watch?v=WZg3e6B2yPQ)
 
 ### Installation on Windows 10/11, with NVidia-GPUs, using release package
 
@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=WZg3e6B2yPQ
 5. Open your SD Web UI: http://127.0.0.1:7860/ (auto-launch should auto-open this for you)
 6. Completely close/quit the Stable Diffusion Web UI. Make sure to kill the terminal process also (the `run.bat` process).
 
-### Install Additional Models and Extensions
+### Install Additional Models, Extensions, ControlNet and more ...
 
 7. Download desired Stable Diffusion models ([below](#2-awesome-stable-diffusion-models))
 8. Download desired Stable Diffusion extensions ([below](#3-awesome-stable-diffusion-extensions))
@@ -52,6 +52,7 @@ https://www.youtube.com/watch?v=WZg3e6B2yPQ
 
 | Name | Install URL | Notes |
 |--|--|--|
+| Openpose Editor | https://github.com/fkunn1326/openpose-editor | [Tutorial](https://www.youtube.com/watch?v=uAI_FBK6UPc&t=0s) |
 | ControlNet | https://github.com/Mikubill/sd-webui-controlnet | [Tutorial](https://stable-diffusion-art.com/controlnet/) |
 | Infinite Image Browsing | https://github.com/zanllp/sd-webui-infinite-image-browsing |  |
 | Canvas Zoom | https://github.com/richrobber2/canvas-zoom |  |
