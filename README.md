@@ -14,12 +14,15 @@
 
 > **Stable Diffusion Web UI Home Page:** https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
-1. Install SD
+### Installation on Windows 10/11 with NVidia-GPUs using release package
+
+1. Download `sd.webui.zip` from [v1.0.0-pre](https://github.com/AUTOMATIC1111/stable-diffusion-webui/releases/tag/v1.0.0-pre) and extract it's contents
 2. Edit the `webui/webui-user.cfg` file
    - Update the `COMMANDLINE_ARGS` line to match this:
      - `set COMMANDLINE_ARGS= --xformers --autolaunch`
 3. Run `./update.bat`
 4. Run `./run.bat`
+   -. For more details see [Install-and-Run-on-NVidia-GPUs](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-NVidia-GPUs) 
 5. Open the SD Web UI: http://127.0.0.1:7860/
 6. Install Extensions (below)
 7. Completely close/quit the SD Web UI & the terminal process, then re-launch it
@@ -52,7 +55,6 @@
 |--|--|
 | ControlNet v1.1 models | https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main |
 | Hugging Face |  |
-|  |  |
 
 ## 4. Awesome Stable Diffusion Extensions
 
@@ -67,7 +69,6 @@
 | sd-civitai-browser | https://github.com/camenduru/sd-civitai-browser |  |
 | Roop | https://github.com/s0md3v/sd-webui-roop | [Tutorial](https://stable-diffusion-art.com/consistent-face/) |
 | Aspect Ratio selector | https://github.com/alemelis/sd-webui-ar |  |
-|  |  |  |
 
 ## 5. Awesome Stable Diffusion Related Links
 
