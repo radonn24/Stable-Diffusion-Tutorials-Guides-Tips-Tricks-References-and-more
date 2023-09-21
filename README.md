@@ -8,8 +8,6 @@
 
 </div>
 
-![][cover]
-
 # Stable Diffusion: Tutorials, Guides, Tips, Tricks, References, and more ...
 
 [Stable Diffusion](https://stability.ai/) is a revolutionary new AI image generation model that can produce stunning and lifelike images from text descriptions. This repository is a carefully curated collection of helpful links (that I am familiar with). It provides a holistic overview of Stable Diffusion, including setup instructions, tutorials, guides, tips, tricks, references, and so on. We encourage you to contribute to this repository!
