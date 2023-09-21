@@ -12,6 +12,8 @@ Stable Diffusion is a revolutionary new AI image generation model that can produ
 		- [Download ControlNet v1.1 Models](#download-controlnet-v11-models)
 	- [5. Awesome Stable Diffusion Related Links](#5-awesome-stable-diffusion-related-links)
 
+https://www.youtube.com/watch?v=WZg3e6B2yPQ
+
 ## 1. Getting Started
 
 > **Stable Diffusion Web UI Home Page:** https://github.com/AUTOMATIC1111/stable-diffusion-webui
