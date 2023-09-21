@@ -14,28 +14,29 @@
 
 ---
 
-## 0️⃣. Table of Contents
+## 0️⃣ Table of Contents
 - [Stable Diffusion: Tutorials, Guides, Tips, Tricks, References, and more ...](#stable-diffusion-tutorials-guides-tips-tricks-references-and-more-)
-	- [0️⃣. Table of Contents](#0️⃣-table-of-contents)
-	- [1️⃣. Getting Started](#1️⃣-getting-started)
-		- [Watch 🤩 Expert-Level 🤩 Tutorials on Stable Diffusion \& SDXL: Master Advanced Techniques and Strategies: https://github.com/FurkanGozukara/Stable-Diffusion](#watch--expert-level--tutorials-on-stable-diffusion--sdxl-master-advanced-techniques-and-strategies-httpsgithubcomfurkangozukarastable-diffusion)
+	- [0️⃣ Table of Contents](#0️⃣-table-of-contents)
+	- [1️⃣ Getting Started](#1️⃣-getting-started)
+		- [🔥 Watch Expert-Level Tutorials on Stable Diffusion \& SDXL 🔥](#-watch-expert-level-tutorials-on-stable-diffusion--sdxl-)
 		- [Installation on Windows 10/11, with NVidia-GPUs, using release package](#installation-on-windows-1011-with-nvidia-gpus-using-release-package)
 		- [Install additional Models, Extensions, ControlNet and more ...](#install-additional-models-extensions-controlnet-and-more-)
-	- [2️⃣. Awesome Stable Diffusion Models](#2️⃣-awesome-stable-diffusion-models)
-	- [3️⃣. Awesome Stable Diffusion Extensions](#3️⃣-awesome-stable-diffusion-extensions)
-	- [4️⃣. ControlNet Details](#4️⃣-controlnet-details)
+	- [2️⃣ Awesome Stable Diffusion Models](#2️⃣-awesome-stable-diffusion-models)
+	- [3️⃣ Awesome Stable Diffusion Extensions](#3️⃣-awesome-stable-diffusion-extensions)
+	- [4️⃣ ControlNet Details](#4️⃣-controlnet-details)
 		- [Download ControlNet v1.1 Models](#download-controlnet-v11-models)
-	- [5️⃣. Awesome Stable Diffusion Related Links \& Miscellaneous](#5️⃣-awesome-stable-diffusion-related-links--miscellaneous)
+	- [5️⃣ Awesome Stable Diffusion Related Links \& Miscellaneous](#5️⃣-awesome-stable-diffusion-related-links--miscellaneous)
 
 ---
 
-## 1️⃣. Getting Started
+## 1️⃣ Getting Started
 
 > **Stable Diffusion Home Page:** https://github.com/Stability-AI/stablediffusion
 
 > **Stable Diffusion (Web UI) Home Page:** https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
-### Watch 🤩 Expert-Level 🤩 Tutorials on Stable Diffusion & SDXL: Master Advanced Techniques and Strategies: https://github.com/FurkanGozukara/Stable-Diffusion
+### 🔥 Watch Expert-Level Tutorials on Stable Diffusion & SDXL 🔥
+- Master Advanced Techniques and Strategies: https://github.com/FurkanGozukara/Stable-Diffusion
 
 ### Installation on Windows 10/11, with NVidia-GPUs, using release package
 
@@ -58,7 +59,7 @@
 
 ---
 
-## 2️⃣. Awesome Stable Diffusion Models
+## 2️⃣ Awesome Stable Diffusion Models
 
 > Put new Stable Diffusion **Models** in this folder: `webui\extensions\sd-webui-controlnet\models`
 
@@ -69,7 +70,7 @@
 
 ---
 
-## 3️⃣. Awesome Stable Diffusion Extensions
+## 3️⃣ Awesome Stable Diffusion Extensions
 
 > Put new Stable Diffusion **extensions** in this folder: `webui\extensions`
 
@@ -94,7 +95,7 @@
 
 ---
 
-## 4️⃣. ControlNet Details
+## 4️⃣ ControlNet Details
 
 [![ControlNet v1.1 Tutorial](https://img.youtube.com/vi/WZg3e6B2yPQ/0.jpg)](https://www.youtube.com/watch?v=WZg3e6B2yPQ)
 
@@ -117,7 +118,7 @@
 
 ---
 
-## 5️⃣. Awesome Stable Diffusion Related Links & Miscellaneous
+## 5️⃣ Awesome Stable Diffusion Related Links & Miscellaneous
 
 | Name | Link | Other Notes |
 |--|--|--|
