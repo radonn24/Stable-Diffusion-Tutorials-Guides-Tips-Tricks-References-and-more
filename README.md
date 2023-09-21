@@ -58,7 +58,7 @@
 
 | Name | Install URL | Notes |
 |--|--|--|
-| ControlNet | https://github.com/Mikubill/sd-webui-controlnet | [Tutorial](https://stable-diffusion-art.com/controlnet/) |
+| ControlNet | https://github.com/Mikubill/sd-webui-controlnet | [Video Tutorial](https://www.youtube.com/watch?v=WZg3e6B2yPQ) - [Written Tutorial](https://stable-diffusion-art.com/controlnet/) |
 | Infinite Image Browsing | https://github.com/zanllp/sd-webui-infinite-image-browsing |  |
 | Canvas Zoom | https://github.com/richrobber2/canvas-zoom |  |
 | Ultimate SD Upscale | https://github.com/Coyote-A/ultimate-upscale-for-automatic1111 | [Tutorial](https://stable-diffusion-art.com/controlnet-upscale/) |
