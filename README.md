@@ -69,6 +69,7 @@
 
 | Name | Install URL | Notes |
 |--|--|--|
+| Auto-Photoshop-StableDiffusion-Plugin | https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin |  |
 | Openpose Editor | https://github.com/fkunn1326/openpose-editor | [Tutorial](https://www.youtube.com/watch?v=uAI_FBK6UPc&t=0s) |
 | ControlNet | https://github.com/Mikubill/sd-webui-controlnet | [Tutorial](https://stable-diffusion-art.com/controlnet/) |
 | Wildcards | https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards |  |
