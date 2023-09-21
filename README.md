@@ -43,7 +43,6 @@
 |--|--|
 | civitai.com | https://civitai.com/ |
 | Hugging Face | https://huggingface.co/ |
-|  |  |
 
 ## 4. Awesome Stable Diffusion Extensions
 
