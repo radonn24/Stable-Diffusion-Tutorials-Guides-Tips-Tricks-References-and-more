@@ -1,10 +1,10 @@
 # Stable Diffusion: Tutorials, Guides, Tips, Tricks, References, and more ...
 
-Stable Diffusion is a revolutionary new AI image generation model that can produce stunning and lifelike images from text descriptions. This repository is a carefully curated collection of helpful links (that I am familiar with). It provides a holistic overview of Stable Diffusion, including setup instructions, tutorials, guides, tips, tricks, references, and so on. We encourage you to contribute to this repository!
+[Stable Diffusion](https://stability.ai/) is a revolutionary new AI image generation model that can produce stunning and lifelike images from text descriptions. This repository is a carefully curated collection of helpful links (that I am familiar with). It provides a holistic overview of Stable Diffusion, including setup instructions, tutorials, guides, tips, tricks, references, and so on. We encourage you to contribute to this repository!
 
 - [Stable Diffusion: Tutorials, Guides, Tips, Tricks, References, and more ...](#stable-diffusion-tutorials-guides-tips-tricks-references-and-more-)
 	- [1. Getting Started](#1-getting-started)
-		- [⭐ \[YT Playlist\] ⭐ Watch the "Stable Diffusion Beginner Guide" Playlist](#-yt-playlist--watch-the-stable-diffusion-beginner-guide-playlist)
+		- [⭐ \[Link to playlist\] ⭐ Watch the "Stable Diffusion Beginner Guide" Playlist](#-link-to-playlist--watch-the-stable-diffusion-beginner-guide-playlist)
 		- [Installation on Windows 10/11, with NVidia-GPUs, using release package](#installation-on-windows-1011-with-nvidia-gpus-using-release-package)
 		- [Install additional Models, Extensions, ControlNet and more ...](#install-additional-models-extensions-controlnet-and-more-)
 	- [2. Awesome Stable Diffusion Models](#2-awesome-stable-diffusion-models)
@@ -17,12 +17,10 @@ Stable Diffusion is a revolutionary new AI image generation model that can produ
 
 > **Stable Diffusion Web UI Home Page:** https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
-### ⭐ [YT Playlist] ⭐ Watch the "Stable Diffusion Beginner Guide" Playlist
-
-by [Sebastian Kamph](https://www.youtube.com/@sebastiankamph) on YouTube
+### ⭐ [[Link to playlist](https://www.youtube.com/playlist?list=PLXS4AwfYDUi5sbsxZmDQWxOQTml9Uqyd2)] ⭐ Watch the "Stable Diffusion Beginner Guide" Playlist
+- (by [Sebastian Kamph](https://www.youtube.com/@sebastiankamph) on YouTube)
 
 [![Stable Diffusion Beginner Guide Playlist](https://i.ytimg.com/vi/kqXpAKVQDNU/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLXS4AwfYDUi5sbsxZmDQWxOQTml9Uqyd2)
-
 
 ### Installation on Windows 10/11, with NVidia-GPUs, using release package
 
