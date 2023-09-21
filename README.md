@@ -61,6 +61,7 @@
 |--|--|--|
 | Openpose Editor | https://github.com/fkunn1326/openpose-editor | [Tutorial](https://www.youtube.com/watch?v=uAI_FBK6UPc&t=0s) |
 | ControlNet | https://github.com/Mikubill/sd-webui-controlnet | [Tutorial](https://stable-diffusion-art.com/controlnet/) |
+| Wildcards | https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards |  |
 | Dynamic Prompts | https://github.com/adieyal/sd-dynamic-prompts | [Tutorial](https://github.com/adieyal/sd-dynamic-prompts/blob/main/docs/resources.md#english) |
 | Booru style tag autocompletion | https://github.com/DominikDoom/a1111-sd-webui-tagcomplete |  |
 | Infinite Image Browsing | https://github.com/zanllp/sd-webui-infinite-image-browsing |  |
@@ -98,6 +99,7 @@
 | Name | Link | Other Notes |
 |--|--|--|
 | ⭐ Stable Diffusion Cheat-Sheet ⭐ | https://github.com/SupaGruen/StableDiffusion-CheatSheet | [Website](https://supagruen.github.io/StableDiffusion-CheatSheet/) |
+| ⭐ Install Stable Diffusion 2.1 in AUTOMATIC1111 GUI ⭐ | https://stable-diffusion-art.com/install-stable-diffusion-2-1/ |
 | Useful AUTOMATIC1111 extensions | https://stable-diffusion-art.com/automatic1111-extensions/ |  |
 | ControlNet-v1-1 | https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main |  |
 | Prompt Styles by Sebastian, Hili & Maui | https://www.patreon.com/posts/sebs-hilis-79649068 | [CSV Download](https://www.patreon.com/file?h=79649068&i=15686449) |
